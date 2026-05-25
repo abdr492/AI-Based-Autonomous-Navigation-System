@@ -1,5 +1,18 @@
 # 🏎️ AI-Based Autonomous Navigation System
 
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-3.x-green?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.6-red?logo=pygame&logoColor=white)](https://www.pygame.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-purple?logo=opencv&logoColor=white)](https://opencv.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/abdr492/AI-Based-Autonomous-Navigation-System)
+[![GitHub Stars](https://img.shields.io/github/stars/abdr492/AI-Based-Autonomous-Navigation-System?style=flat)](https://github.com/abdr492/AI-Based-Autonomous-Navigation-System/stargazers)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-A-brightgreen)](https://github.com/abdr492/AI-Based-Autonomous-Navigation-System)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue)](https://github.com/abdr492/AI-Based-Autonomous-Navigation-System)
+
+---
+
 An end-to-end virtual simulation for an artificial intelligence-driven autonomous navigation platform. This project acts as an advanced sandbox replicating what large-scale AV companies (like Tesla, Waymo, or NVIDIA) deploy visually, without requiring expensive physical robotics or hardware components. 
 
 The software includes a cohesive, photorealistic graphical simulation engine, automated A* route plotting, a mock-up of object detection frameworks, and a hyper-modern web-based telemetry dashboard.
